@@ -1,5 +1,5 @@
 {
-  "status": "SUCCESS",
+  "status": {"SUCCESS":"true"},
   "data": {
     "testId": "oihq2eo9h1029921-210-20112",
     "questions": [
@@ -85,5 +85,5 @@
       }
     ]
   },
-  "message": "Questions fetched successfully"
+  "message": {"msg":"Questions fetched successfully"}
 }
